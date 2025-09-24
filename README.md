@@ -25,6 +25,12 @@
   <!-- BI & Visualization -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+   <!-- MLOps & LLMs -->
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
   <!-- Notebooks & Dev -->
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -51,6 +57,18 @@
 **CRM Analytics** *(In Progress)*  
 - Implementing BG/NBD for CLTV prediction
 - Developing churn risk scoring system
+
+  #### 🚀 Bootcamps & Trainings
+**Build with LLM’s Bootcamp (Kairu)**  
+- Built strong foundations in **Large Language Models (LLMs)**  
+- Covered Transformer architecture, tokenization, and Hugging Face model deployment  
+- Gained hands-on experience with LLM applications  
+
+**Data Science 360 Bootcamp – MLOps & Deployment Essentials (Kairu)**  
+- Data & model versioning with **DVC**  
+- Experiment tracking & performance evaluation using **MLflow**  
+- Automated CI pipelines with **GitHub Actions**  
+- Learned best practices for reproducibility, scalability, and deployment in real-world ML projects  
 
 ---
 

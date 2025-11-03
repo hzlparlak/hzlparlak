@@ -100,21 +100,6 @@ Production-ready deployments with Docker and FastAPI
 
 ---
 
-### 📌 Featured Projects
-
-🔹 [**Employee Attrition Prediction**](https://github.com/hzlparlak/employee-attrition-prediction)  
-*Developed a machine learning pipeline to predict employee attrition using HR data. Applied data preprocessing, feature engineering, SMOTE, and models such as Random Forest, XGBoost, and LightGBM.*
-
-🔹 **HR Analytics: Absenteeism & Performance** *(In Progress)*  
-*Exploring absenteeism patterns and performance KPIs through data visualization and predictive modeling.*
-
-🔹 **CRM Analytics: Churn Prediction & CLTV Forecasting** *(In Progress)*  
-*Developing end-to-end customer lifetime value estimation using probabilistic models.*
-
-🔹 **Master’s Thesis: Deep Learning for Ovarian Cancer Classification**  
-*Advanced research in medical image analysis with CNN architectures, achieving state-of-the-art results in cancer subtype classification.*
-
----
 
 ### 🌐 Let’s Connect
 
